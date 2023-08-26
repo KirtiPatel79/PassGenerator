@@ -59,7 +59,7 @@ export default function App() {
       result += characters.charAt(characterIndex)
     }
     return result
-    console.log("hitesh");
+    console.log("KPateL");
     
   }
 
